@@ -10,7 +10,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-solidity/contracts/token/ER
  * `ERC20` functions.
  */
 contract IGamingCoin is ERC20, ERC20Detailed {
-    uint256 public constant INITIAL_SUPPLY = 10000 * (10 ** 18);
+    uint256 public constant INITIAL_SUPPLY = 400000000 * (10 ** 18);
 
     /**
      * @dev Constructor that gives msg.sender all of existing tokens.
