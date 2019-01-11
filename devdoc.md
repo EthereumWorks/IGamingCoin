@@ -64,5 +64,5 @@
 			}
 		}
 	},
-	"title": "SimpleToken\r"
+	"title": "IGamingCoin\r"
 }
