@@ -4,8 +4,8 @@ import "https://github.com/OpenZeppelin/openzeppelin-solidity/contracts/token/ER
 import "https://github.com/OpenZeppelin/openzeppelin-solidity/contracts/token/ERC20/ERC20Detailed.sol";
 
 /**
- * @title SimpleToken
- * @dev Very simple ERC20 Token example, where all tokens are pre-assigned to the creator.
+ * @title IGamingCoin
+ * @dev ERC20 Token, where all tokens are pre-assigned to the creator.
  * Note they can later distribute these tokens as they wish using `transfer` and other
  * `ERC20` functions.
  */
